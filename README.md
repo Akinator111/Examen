@@ -17,3 +17,7 @@ Rolurile membrilor echipei:
 * Tehnical writer - realizarea scripturilor, ralizarea textelor informative, copywriting;
 * Analist - analizarea situatiei proiectului, resursele financiare, umane, aprovizionare, logistica;
 * Consultant - dezvoltarea unei relatii bune dintre clienti si freelanceri.
+
+
+Partea teoretica:
+[examen.pdf](https://github.com/Akinator111/Examen/files/8424004/examen.pdf)
